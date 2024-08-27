@@ -129,6 +129,7 @@ SELECT * from usuario_hobbie
 
 SELECT * from privacidade
 
+
 select * from usuario_privacidade
 
 
